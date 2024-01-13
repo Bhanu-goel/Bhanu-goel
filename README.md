@@ -40,4 +40,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhanu-goel&show_icons=true&locale=en" alt="bhanu-goel" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhanu-goel&" alt="bhanu-goel" /></p>
